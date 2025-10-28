@@ -965,7 +965,7 @@ button:hover, button:active, button:focus {
 }
 /* logo */
 .logo {
-    max-width: 100px;
+    max-width: 165px;
 }
 .logo img {
     vertical-align: middle;
@@ -6478,7 +6478,7 @@ ul.count_down.white li p:nth-child(2) {
         font-size: 14px;
     }
     .logo {
-        max-width: 90px;
+        max-width: 170px;
     }
     .side-menu {
         width: 380px;
