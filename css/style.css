@@ -76,7 +76,8 @@ ol, ul {
     padding: 0;
     list-style: none;
 }
-section, .section-padding {position: relative; padding: 7.5rem 0; overflow: hidden;}
+section, .section-padding {position: relative; padding: 7.5rem 0; overflow: hidden; border-top: 1px solid #4e3646;
+;}
 
 .portfolio-padding {
     padding: 7.5rem 0 4rem;
